@@ -116,7 +116,6 @@ const cayenne = {
 
 <div align="center">
 
-<sub>toda grande dev já foi iniciante um dia</sub>
 
 <br/>
 
