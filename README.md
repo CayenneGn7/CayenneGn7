@@ -1,97 +1,119 @@
-<div align="center">
-
-<!-- Banner de boas-vindas -->
-# Olá, eu sou a Cayenne 👋
-
-### Desenvolvedor Full Stack em formação | ADS | Apaixonado por tecnologia
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayenne-galante-do-nascimento-9a84623aa/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CayenneGn7)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em desenvolvimento Full Stack. Estou construindo minha base técnica com dedicação, combinando cursos práticos e formação acadêmica para me tornar um profissional completo.
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🚀 Iniciando minha jornada no desenvolvimento **Full Stack**
-- 📚 Aprendendo sempre algo novo
-- 🎮 Interesse em **Design de Jogos**
-- 🤝 Aberto a colaborações e oportunidades de aprendizado
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Back-end & Dados
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Outros
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📚 Formação & Cursos
-
-| Curso | Área |
-|---|---|
-| 🎨 Front-end (HTML, CSS, JS) | Desenvolvimento Web |
-| 🐘 PHP | Desenvolvimento Back-end |
-| 🗄️ Banco de Dados para Data Science | Dados & Análise |
-| 🐍 Python | Programação |
-| 🎮 Design de Jogos | Game Development |
-| 💻 Informática Básica | Fundamentos |
-| 🎓 Análise e Desenvolvimento de Sistemas | Graduação |
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-![Cayenne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CayenneGn7&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b5c8f0,d4b8e0&height=120&section=header&fontColor=ffffff&fontSize=30&animation=fadeIn" width="100%"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CayenneGn7&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+<br/>
 
-</div>
-
----
-
-## 🌱 Atualmente estudando
-
-```text
-📖 Lógica de Programação
-🌐 Desenvolvimento Web Full Stack
-🐍 Python para Data Science
-🎯 Boas práticas de código
+```
+✦ desenvolvedora em formação · ads · são paulo ✦
 ```
 
----
+<br/>
 
-## 📬 Onde me encontrar
+# cayenne galante
 
-<div align="center">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/Vamos%20nos%20conectar!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayenne-galante-do-nascimento-9a84623aa/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-d4b8e0?style=flat-square&logo=linkedin&logoColor=6b7db3&labelColor=f5f0fb)](https://www.linkedin.com/in/cayenne-galante-do-nascimento-9a84623aa/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/github-b5c8f0?style=flat-square&logo=github&logoColor=6b7db3&labelColor=f0f4fb)](https://github.com/CayenneGn7)
+
+<br/>
 
 </div>
 
 ---
 
+<br/>
+
+```javascript
+const cayenne = {
+  formação:     "Análise e Desenvolvimento de Sistemas",
+  foco:         "Full Stack Development",
+  cidade:       "São Paulo, Brasil",
+  status:       "aprendendo todos os dias ✦"
+}
+```
+
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
 
-*"Todo especialista já foi um dia iniciante."*
+### ✦ tecnologias ✦
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CayenneGn7.CayenneGn7)
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML-f5f0fb?style=flat-square&logo=html5&logoColor=b088c9)
+![CSS3](https://img.shields.io/badge/CSS-f0f4fb?style=flat-square&logo=css3&logoColor=6b7db3)
+![JavaScript](https://img.shields.io/badge/JavaScript-f5f0fb?style=flat-square&logo=javascript&logoColor=b088c9)
+![PHP](https://img.shields.io/badge/PHP-f0f4fb?style=flat-square&logo=php&logoColor=6b7db3)
+![Python](https://img.shields.io/badge/Python-f5f0fb?style=flat-square&logo=python&logoColor=b088c9)
+![MySQL](https://img.shields.io/badge/MySQL-f0f4fb?style=flat-square&logo=mysql&logoColor=6b7db3)
+![Git](https://img.shields.io/badge/Git-f5f0fb?style=flat-square&logo=git&logoColor=b088c9)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### ✦ formação ✦
+
+<br/>
+
+| &nbsp; | curso |
+|:---:|:---|
+| 🎓 | Análise e Desenvolvimento de Sistemas |
+| 🌐 | Front-end — HTML, CSS & JavaScript |
+| 🐘 | Back-end com PHP |
+| 🗄️ | Banco de Dados para Data Science |
+| 🐍 | Python |
+| 🎮 | Design de Jogos |
+| 💻 | Informática Básica |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### ✦ stats ✦
+
+<br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=CayenneGn7&show_icons=true&theme=buefy&hide_border=true&title_color=b088c9&icon_color=6b7db3&text_color=888&bg_color=00000000)
+
+<br/>
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CayenneGn7&layout=compact&theme=buefy&hide_border=true&title_color=b088c9&text_color=888&bg_color=00000000)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+*toda grande dev já foi iniciante um dia* ✦
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b5c8f0,d4b8e0&height=80&section=footer" width="100%"/>
 
 </div>
