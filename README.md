@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b5c8f0,d4b8e0&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=40e0d0,ooFFF&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -119,6 +119,6 @@ const cayenne = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b5c8f0,d4b8e0&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=40e0d0,ooFFF&height=80&section=footer" width="100%"/>
 
 </div>
