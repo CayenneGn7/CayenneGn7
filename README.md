@@ -1,17 +1,12 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b5c8f0,d4b8e0&height=120&section=header&fontColor=ffffff&fontSize=30&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b5c8f0,d4b8e0&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
-```
-✦ desenvolvedora em formação · ads · são paulo ✦
-```
+# Cayenne Galante do Nascimento
 
-<br/>
-
-# cayenne galante
+<sub>Desenvolvedora Full Stack &nbsp;|&nbsp; DevOps &nbsp;|&nbsp; Análise e Desenvolvimento de Sistemas</sub>
 
 <br/>
 
@@ -30,9 +25,9 @@
 ```javascript
 const cayenne = {
   formação:     "Análise e Desenvolvimento de Sistemas",
-  foco:         "Full Stack Development",
-  cidade:       "São Paulo, Brasil",
-  status:       "aprendendo todos os dias ✦"
+  habilidades:  ["HTML", "CSS", "JS", "PHP", "Python", "MySQL", "Linux", "Figma"],
+  interesse:    ["Full Stack Development", "DevOps", "Data Science", "Game Design"],
+  status:       "aprendendo todos os dias"
 }
 ```
 
@@ -44,17 +39,19 @@ const cayenne = {
 
 <div align="center">
 
-### ✦ tecnologias ✦
+### formação & cursos
 
 <br/>
 
-![HTML5](https://img.shields.io/badge/HTML-f5f0fb?style=flat-square&logo=html5&logoColor=b088c9)
-![CSS3](https://img.shields.io/badge/CSS-f0f4fb?style=flat-square&logo=css3&logoColor=6b7db3)
-![JavaScript](https://img.shields.io/badge/JavaScript-f5f0fb?style=flat-square&logo=javascript&logoColor=b088c9)
-![PHP](https://img.shields.io/badge/PHP-f0f4fb?style=flat-square&logo=php&logoColor=6b7db3)
-![Python](https://img.shields.io/badge/Python-f5f0fb?style=flat-square&logo=python&logoColor=b088c9)
-![MySQL](https://img.shields.io/badge/MySQL-f0f4fb?style=flat-square&logo=mysql&logoColor=6b7db3)
-![Git](https://img.shields.io/badge/Git-f5f0fb?style=flat-square&logo=git&logoColor=b088c9)
+| &nbsp; | curso | área |
+|:---:|:---|:---|
+| 🎓 | Análise e Desenvolvimento de Sistemas | Graduação |
+| 🌐 | Front-end — HTML, CSS & JavaScript | Desenvolvimento Web |
+| 🐘 | Back-end com PHP | Desenvolvimento Web |
+| 🗄️ | Banco de Dados para Data Science | Dados & Análise |
+| 🐍 | Python | Programação |
+| 🎮 | Design de Jogos | Game Development |
+| 💻 | Informática Básica | Fundamentos |
 
 </div>
 
@@ -66,19 +63,28 @@ const cayenne = {
 
 <div align="center">
 
-### ✦ formação ✦
+### tecnologias & ferramentas
 
 <br/>
 
-| &nbsp; | curso |
-|:---:|:---|
-| 🎓 | Análise e Desenvolvimento de Sistemas |
-| 🌐 | Front-end — HTML, CSS & JavaScript |
-| 🐘 | Back-end com PHP |
-| 🗄️ | Banco de Dados para Data Science |
-| 🐍 | Python |
-| 🎮 | Design de Jogos |
-| 💻 | Informática Básica |
+**front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-f5f0fb?style=for-the-badge&logo=html5&logoColor=b088c9)
+![CSS3](https://img.shields.io/badge/CSS3-f0f4fb?style=for-the-badge&logo=css3&logoColor=6b7db3)
+![JavaScript](https://img.shields.io/badge/JavaScript-f5f0fb?style=for-the-badge&logo=javascript&logoColor=b088c9)
+
+**back-end & dados**
+
+![PHP](https://img.shields.io/badge/PHP-f0f4fb?style=for-the-badge&logo=php&logoColor=6b7db3)
+![Python](https://img.shields.io/badge/Python-f5f0fb?style=for-the-badge&logo=python&logoColor=b088c9)
+![MySQL](https://img.shields.io/badge/MySQL-f0f4fb?style=for-the-badge&logo=mysql&logoColor=6b7db3)
+
+**ferramentas & ambiente**
+
+![Linux](https://img.shields.io/badge/Linux-f5f0fb?style=for-the-badge&logo=linux&logoColor=b088c9)
+![Figma](https://img.shields.io/badge/Figma-f0f4fb?style=for-the-badge&logo=figma&logoColor=6b7db3)
+![Git](https://img.shields.io/badge/Git-f5f0fb?style=for-the-badge&logo=git&logoColor=b088c9)
+![Microsoft Office](https://img.shields.io/badge/Office-f0f4fb?style=for-the-badge&logo=microsoftoffice&logoColor=6b7db3)
 
 </div>
 
@@ -90,7 +96,7 @@ const cayenne = {
 
 <div align="center">
 
-### ✦ stats ✦
+### github stats
 
 <br/>
 
@@ -110,7 +116,7 @@ const cayenne = {
 
 <div align="center">
 
-*toda grande dev já foi iniciante um dia* ✦
+<sub>toda grande dev já foi iniciante um dia</sub>
 
 <br/>
 
